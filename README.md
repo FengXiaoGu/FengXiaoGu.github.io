@@ -2,10 +2,10 @@
 ## Welcome to FengXiaoGu Pages
 
 ### Profile
-       name:FengXiaoGu
+       NAME:FengXiaoGu
           
 ### News
-       2020/7/31 build first personal page.
+       2020/7/31 Build first personal page.
     
 ### Study Direction
        Target Recognition
