@@ -1,10 +1,6 @@
 
 ## Welcome to FengXiaoGu Pages
 
-:monkey:    :monkey:    :monkey:     :monkey:     :monkey:
-
-
-
 ### Profile
        name:FengXiaoGu
        sex:man
