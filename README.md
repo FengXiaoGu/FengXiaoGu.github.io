@@ -1,7 +1,7 @@
 
 ## Welcome to FengXiaoGu Pages
 
-:monkey::monkey::monkey::monkey::monkey:
+:monkey:    :monkey:    :monkey:     :monkey:     :monkey:
 
 
 
