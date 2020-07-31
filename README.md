@@ -3,9 +3,7 @@
 
 ### Profile
        name:FengXiaoGu
-       sex:man
-       girlfriend:CaoDan
-    
+          
 ### News
        2020/7/31 build first personal page.
     
